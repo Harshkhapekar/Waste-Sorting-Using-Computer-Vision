@@ -43,3 +43,4 @@ Waste management is a critical challenge faced by modern society. This project l
 ---
 
 ## Project Structure
+Waste-Sorting-Using-Computer-Vision/ ├── data/ # Dataset for training and testing ├── models/ # Pre-trained and custom-trained models ├── notebooks/ # Jupyter notebooks with experiments ├── scripts/ # Scripts for training, testing, and deployment ├── results/ # Output results and logs ├── requirements.txt # Python dependencies ├── README.md # Project documentation (this file)
